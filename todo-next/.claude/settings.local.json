@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(gh.exe auth *)",
+      "Bash(powershell.exe *)",
+      "Bash(/c/Program Files/GitHub CLI/gh.exe auth *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}
